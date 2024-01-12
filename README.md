@@ -29,27 +29,27 @@ Check Mark
 | #2629 [Function Composition](https://leetcode.com/problems/function-composition/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/function-transformations/function-composition.js) |
 | #2703 [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/function-transformations/return-length-of-arguments-passed.js) |
 | #2666 [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/function-transformations/allow-one-function-call.js) |
-| #2623 [Memoize](https://leetcode.com/problems/memoize/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/function-transformations/memoize.js) |
+| #2623 [Memoize](https://leetcode.com/problems/memoize/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/function-transformations/memoize.js) |
 | __Promises and Time__ |
-| #2723 [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:  ](/solutions/promises-and-time/add-two-promises.js) |
-| #2621 [Sleep](https://leetcode.com/problems/sleep/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:  ](/solutions/promises-and-time/sleep.js) |
-| #2715 [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:  ](/solutions/promises-and-time/timeout-cancellation.js) |
-| #2725 [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:  ](/solutions/promises-and-time/interval-cancellation.js) |
-| #2637 [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/promises-and-time/promise-time-limit.js) |
-| #2622 [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/promises-and-time/cache-with-time-limit.js) |
-| #2627 [Debounce](https://leetcode.com/problems/debounce/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/promises-and-time/debounce.js) |
-| #2721 [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/promises-and-time/execute-asynchronous-functions-in-parallel.js) |
+| #2723 [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/promises-and-time/add-two-promises.js) |
+| #2621 [Sleep](https://leetcode.com/problems/sleep/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/promises-and-time/sleep.js) |
+| #2715 [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/promises-and-time/timeout-cancellation.js) |
+| #2725 [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/promises-and-time/interval-cancellation.js) |
+| #2637 [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/promises-and-time/promise-time-limit.js) |
+| #2622 [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/promises-and-time/cache-with-time-limit.js) |
+| #2627 [Debounce](https://leetcode.com/problems/debounce/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/promises-and-time/debounce.js) |
+| #2721 [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/promises-and-time/execute-asynchronous-functions-in-parallel.js) |
 | __JSON__ |
-| #2727 [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:  ](/solutions/json/is-object-empty.js) |
-| #2677 [Chunk Array](https://leetcode.com/problems/chunk-array/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:  ](/solutions/json/chunk-array.js) |
-| #2619 [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:  ](/solutions/json/array-prototype-last.js) |
-| #2631 [Group By](https://leetcode.com/problems/group-by/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/json/group-by.js) |
-| #2724 [Sort By](https://leetcode.com/problems/sort-by/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:  ](/solutions/json/sort-by.js) |
-| #2722 [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/json/join-two-arrays-by-id.js) |
-| #2625 [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/json/flatten-deeply-nested-array.js) |
-| #2705 [Compact Object](https://leetcode.com/problems/compact-object/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/json/compact-object.js) |
+| #2727 [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/json/is-object-empty.js) |
+| #2677 [Chunk Array](https://leetcode.com/problems/chunk-array/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/json/chunk-array.js) |
+| #2619 [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/json/array-prototype-last.js) |
+| #2631 [Group By](https://leetcode.com/problems/group-by/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/json/group-by.js) |
+| #2724 [Sort By](https://leetcode.com/problems/sort-by/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/json/sort-by.js) |
+| #2722 [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/json/join-two-arrays-by-id.js) |
+| #2625 [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/json/flatten-deeply-nested-array.js) |
+| #2705 [Compact Object](https://leetcode.com/problems/compact-object/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/json/compact-object.js) |
 | __Classes__ |
-| #2694 [Event Emitter](https://leetcode.com/problems/event-emitter/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/classes/event-emitter.js) |
-| #2695 [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/classes/array-wrapper.js) |
-| #2726 [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:  ](/solutions/classes/calculator-with-method-chaining.js) |
+| #2694 [Event Emitter](https://leetcode.com/problems/event-emitter/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/classes/event-emitter.js) |
+| #2695 [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:](/solutions/classes/array-wrapper.js) |
+| #2726 [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:](/solutions/classes/calculator-with-method-chaining.js) |
 
