@@ -35,8 +35,8 @@ Check Mark
 | #2623 [Memoize](https://leetcode.com/problems/memoize/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/function-transformations/memoize.js) |
 | __Promises and Time__ |
 | #2723 [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/promises-and-time/add-two-promises.js) |
-| #2621 [Sleep](https://leetcode.com/problems/sleep/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/promises-and-time/sleep.js) |
-| #2715 [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/promises-and-time/timeout-cancellation.js) |
+| #2621 [Sleep](https://leetcode.com/problems/sleep/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/promises-and-time/sleep.js) |
+| #2715 [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:](/solutions/promises-and-time/timeout-cancellation.js) |
 | #2725 [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/promises-and-time/interval-cancellation.js) |
 | #2637 [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/promises-and-time/promise-time-limit.js) |
 | #2622 [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/promises-and-time/cache-with-time-limit.js) |
