@@ -44,8 +44,8 @@ Check Mark
 | #2721 [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/promises-and-time/execute-asynchronous-functions-in-parallel.js) |
 | __JSON__ |
 | #2727 [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/json/is-object-empty.js) |
-| #2677 [Chunk Array](https://leetcode.com/problems/chunk-array/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/json/chunk-array.js) |
-| #2619 [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:](/solutions/json/array-prototype-last.js) |
+| #2677 [Chunk Array](https://leetcode.com/problems/chunk-array/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/json/chunk-array.js) |
+| #2619 [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/json/array-prototype-last.js) |
 | #2631 [Group By](https://leetcode.com/problems/group-by/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/json/group-by.js) |
 | #2724 [Sort By](https://leetcode.com/problems/sort-by/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/json/sort-by.js) |
 | #2722 [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/json/join-two-arrays-by-id.js) |
