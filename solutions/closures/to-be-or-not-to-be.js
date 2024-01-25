@@ -6,13 +6,13 @@ var expect = function(val){
     return {
         toBe: function(valToBe){
             if(val === valToBe){
-                return true
-            } else throw new Error("Not Equal")
+                return true;
+            } else throw new Error("Not Equal");
         },
         notToBe: function(valNotToBe){
             if(val !== valNotToBe){
-                return true
-            } else throw new Error("Equal")
+                return true;
+            } else throw new Error("Equal");
         }
     }
 };

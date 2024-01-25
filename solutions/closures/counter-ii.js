@@ -6,14 +6,14 @@ var createCounter = function(init) {
     originalVal = init
     return {
         increment: function(){
-            return ++init
+            return ++init;
         },
         decrement: function(){
-            return --init
+            return --init;
         },
         reset: function(){
-            init = originalVal
-            return init
+            init = originalVal;
+            return init;
         }
     }
 };
