@@ -38,7 +38,7 @@ Check Mark
 | #2621 [Sleep](https://leetcode.com/problems/sleep/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/promises-and-time/sleep.js) |
 | #2715 [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/promises-and-time/timeout-cancellation.js) |
 | #2725 [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/promises-and-time/interval-cancellation.js) |
-| #2637 [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/promises-and-time/promise-time-limit.js) |
+| #2637 [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/promises-and-time/promise-time-limit.js) |
 | #2622 [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/promises-and-time/cache-with-time-limit.js) |
 | #2627 [Debounce](https://leetcode.com/problems/debounce/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/promises-and-time/debounce.js) |
 | #2721 [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/promises-and-time/execute-asynchronous-functions-in-parallel.js) |
