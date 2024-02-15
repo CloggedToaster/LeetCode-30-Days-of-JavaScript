@@ -1,5 +1,5 @@
 # LeetCode-30-Days-of-JavaScript
-Using this to track my progress and solutions of [LeetCode's 30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/).
+Using this to track my progress and solutions of [LeetCode's 30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/).[^1]
 
 > [!NOTE]
 > I created a "template" branch if you want to clone to it to try the 30-day challenge for yourself!
@@ -15,6 +15,9 @@ Badges:
 
 Check Mark
 [:white_check_mark:]()
+
+X
+[:x:]()
 
  -->
 | LeetCode Problem | Difficulty | My Solution |
@@ -56,3 +59,4 @@ Check Mark
 | #2695 [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:](/solutions/classes/array-wrapper.js) |
 | #2726 [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:](/solutions/classes/calculator-with-method-chaining.js) |
 
+[^1]: 2/14: Reducing frequency of updating/working on this to continue working on projects
