@@ -48,7 +48,7 @@ Check Mark
 | #2619 [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](/solutions/json/array-prototype-last.js) |
 | #2631 [Group By](https://leetcode.com/problems/group-by/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/json/group-by.js) |
 | #2724 [Sort By](https://leetcode.com/problems/sort-by/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:  ](/solutions/json/sort-by.js) |
-| #2722 [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/json/join-two-arrays-by-id.js) |
+| #2722 [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](/solutions/json/join-two-arrays-by-id.js) |
 | #2625 [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/json/flatten-deeply-nested-array.js) |
 | #2705 [Compact Object](https://leetcode.com/problems/compact-object/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:x:](/solutions/json/compact-object.js) |
 | __Classes__ |
