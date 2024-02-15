@@ -59,4 +59,4 @@ X
 | #2695 [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:](/solutions/classes/array-wrapper.js) |
 | #2726 [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:x:](/solutions/classes/calculator-with-method-chaining.js) |
 
-[^1]: 2/14: Reducing frequency of updating/working on this to continue working on projects
+[^1]: 2/14 - Reducing frequency of updating/working on this to continue working on projects
